@@ -1,13 +1,33 @@
 # Data Preprocessing and Visualization
 
-This folder contains Jupyter notebooks and sample datasets for basic data preprocessing, integration, normalization, PCA, and visualization exercises.
+This repository is a collection for working through data preprocessing, cleaning, integration, normalization, exploratory analysis, PCA, and visualization in Jupyter notebooks.
 
-## Contents
+## Notebook map
 
-- `Lab1-Basic_Fundamentals.ipynb` through `Lab7.3-Text_Visualization.ipynb`
-- `content/` sample CSV files used by the notebooks
+- Lab 1: Python and data analysis fundamentals
+- Lab 2: Pandas and NumPy practice
+- Lab 3: Matplotlib basics
+- Lab 4: Data cleaning exercises
+- Lab 5: Data integration and normalization
+- Lab 6: PCA introduction
+- Lab 7: Classification, regression, clustering, and visualization case studies
+
+## Datasets
+
+The `content/` folder includes example datasets such as:
+
+- customer and transaction data
+- diabetes and medical datasets
+- Titanic, Netflix, and world cities data
+- cleaned, integrated, and standardized outputs used in labs
+
+## Requirements
+
+- Python 3.x
+- Jupyter Notebook or JupyterLab
+- Common data libraries such as pandas, numpy, matplotlib, and scikit-learn
 
 ## Notes
 
-- Open the notebooks in Jupyter or VS Code.
-- The datasets in `content/` are meant for experimentation and lab work.
+- This repo is intended for learning and experimentation.
+- Some notebooks may depend on specific datasets already present in `content/`.
