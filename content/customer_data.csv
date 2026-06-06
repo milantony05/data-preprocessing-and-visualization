@@ -1,0 +1,11 @@
+CustomerID,Name,Age,Email,Region
+1,Arjun Kumar,25,arjun@email.com,Delhi
+2,Priya Sharma,30,priya@email.com,Bangalore
+3,Rajesh Patel,,rajesh@email.com,Mumbai
+4,Anjali Singh,45,anjali@email.com,Delhi
+5,Deepak Verma,35,deepak@email.com,
+6,Kavita Reddy,28,kavita@email.com,Chennai
+7,Rahul Gupta,50,rahul@email.com,Bangalore
+8,Meena Desai,,meena@email.com,Mumbai
+9,Harish Mehta,42,harish@email.com,Delhi
+10,Indira Nair,33,indira@email.com,Chennai

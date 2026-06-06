@@ -1,0 +1,16 @@
+CustomerID,Name,Age,Email,Region,TransactionID,Product,Quantity,Price,TotalAmount
+1,Arjun Kumar,25.0,arjun@email.com,Delhi,1,Laptop,1,1000,1000
+1,Arjun Kumar,25.0,arjun@email.com,Delhi,15,Charger,3,30,90
+2,Priya Sharma,30.0,priya@email.com,Bengaluru,2,Phone,2,800,1600
+2,Priya Sharma,30.0,priya@email.com,Bengaluru,3,Tablet,1,500,500
+3,Rajesh Patel,35.38461538461539,rajesh@email.com,Mumbai,4,Monitor,3,300,900
+4,Anjali Singh,45.0,anjali@email.com,Delhi,5,Keyboard,2,100,200
+5,Deepak Verma,35.0,deepak@email.com,Delhi,6,Mouse,1,50,50
+6,Kavita Reddy,28.0,kavita@email.com,Chennai,7,Printer,1,200,200
+7,Rahul Gupta,50.0,rahul@email.com,Bengaluru,8,Scanner,1,150,150
+8,Meena Desai,35.38461538461539,meena@email.com,Mumbai,9,Headphones,2,80,160
+9,Harish Mehta,42.0,harish@email.com,Delhi,10,Speaker,1,120,120
+9,Harish Mehta,42.0,harish@email.com,Delhi,11,Camera,1,400,400
+9,Harish Mehta,42.0,harish@email.com,Delhi,12,Watch,1,250,250
+10,Indira Nair,33.0,indira@email.com,Chennai,13,USB Drive,5,20,100
+10,Indira Nair,33.0,indira@email.com,Chennai,14,Hard Disk,2,80,160

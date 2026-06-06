@@ -1,0 +1,16 @@
+TransactionID,CustomerID,Product,Quantity,Price
+1,1,Laptop,1,1000
+2,2,Phone,2,800
+3,2,Tablet,1,500
+4,3,Monitor,3,300
+5,4,Keyboard,2,100
+6,5,Mouse,1,50
+7,6,Printer,1,200
+8,7,Scanner,1,150
+9,8,Headphones,2,80
+10,9,Speaker,1,120
+11,9,Camera,1,400
+12,9,Watch,1,250
+13,10,USB Drive,5,20
+14,10,Hard Disk,2,80
+15,1,Charger,3,30
